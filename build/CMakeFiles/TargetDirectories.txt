@@ -1,0 +1,9 @@
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/Experimental.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/Nightly.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/Continuous.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/Puede-si.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/PACKAGE.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/ZERO_CHECK.dir

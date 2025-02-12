@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ADMIN\Downloads\c++\Puede-si\build\CMakeFiles\877eb6f547b0d2c182c0436395563422\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\ADMIN\Downloads\c++\Puede-si\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ADMIN\Downloads\c++\Puede-si\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{00363564-6730-3EA1-8D58-0E29AB7A017F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

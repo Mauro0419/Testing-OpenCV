@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20250212-0107-Experimental"
+	Name="DESKTOP-NGFVJR3"
+	Generator="ctest-3.31.5"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.42.34436.0"
+	OSName="Windows"
+	Hostname="DESKTOP-NGFVJR3"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="18696"
+	TotalPhysicalMemory="16264"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3408"
+	>
+	<Testing>
+		<StartDateTime>Feb 11 21:09 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Venezuela</StartDateTime>
+		<StartTestTime>1739322588</StartTestTime>
+		<TestList/>
+		<EndDateTime>Feb 11 21:09 Hora est[NON-UTF-8-BYTE-0xE1]ndar de Venezuela</EndDateTime>
+		<EndTestTime>1739322588</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

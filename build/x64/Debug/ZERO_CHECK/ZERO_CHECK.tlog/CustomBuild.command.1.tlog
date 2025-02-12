@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOWNLOADS\C++\PUEDE-SI\BUILD\CMAKEFILES\877EB6F547B0D2C182C0436395563422\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ADMIN/Downloads/c++/Puede-si -BC:/Users/ADMIN/Downloads/c++/Puede-si/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ADMIN/Downloads/c++/Puede-si/build/Puede-si.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

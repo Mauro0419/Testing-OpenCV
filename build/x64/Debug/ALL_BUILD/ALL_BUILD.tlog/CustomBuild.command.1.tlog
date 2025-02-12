@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOWNLOADS\C++\PUEDE-SI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ADMIN/Downloads/c++/Puede-si -BC:/Users/ADMIN/Downloads/c++/Puede-si/build --check-stamp-file C:/Users/ADMIN/Downloads/c++/Puede-si/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
